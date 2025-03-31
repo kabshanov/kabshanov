@@ -13,4 +13,4 @@
 📫 **Связаться со мной:**  
 - **Telegram:** [@kabmik](https://t.me/kabmik)  
 - **GitHub:** [@kabshanov](https://github.com/kabshanov)
-- https://www.codewars.com/users/kabshanov/badges/micro 
+- **Сodewars:** [![Codewars](https://www.codewars.com/users/kabshanov/badges/micro)](https://www.codewars.com/users/kabshanov)
